@@ -1,0 +1,13 @@
+Difference between filetrs and parameters?
+What causes for tableau low performance and what to do to make faster?
+which databases did you work on your project?
+What is equi join and non equi join
+
+Concepts-
+1.Databases,
+2.Connections,
+3.Joins and Blending,
+4.Dimensions and measures,
+5.
+
+
